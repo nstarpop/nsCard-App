@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/listLayout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp" >
+
+    <ImageView
+        android:id="@+id/card_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/card_image"/>
+
+    <TextView
+        android:id="@+id/nameTxt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/vod_paddingDefault"
+        android:layout_weight="3"
+        android:layout_gravity="center"
+        android:layout_centerHorizontal="true"
+        android:textColor="#000000"
+        android:textSize="20dp"/>
+
+    <ProgressBar
+        android:id="@+id/downloadProgressbar"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/vod_paddingDefault"
+        android:layout_marginRight="@dimen/vod_paddingDefault"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="1"
+        android:max="100"
+        android:progress="100"/>
+
+     <TextView
+        android:id="@+id/prgressTxt"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="3"
+        android:textColor="#cbcaca"
+        android:textSize="15dp"
+        android:layout_gravity="center_vertical|right"
+        android:gravity="right"/>
+
+</LinearLayout>

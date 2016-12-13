@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/menu_set_remove_pak_db"
+        android:title="@string/remove_pak_db"
+	    android:visible="false"
+        />
+
+    <item
+        android:id="@+id/menu_set_active"
+        android:title="@string/set_active"
+        android:checkable="true"
+        android:checked="true"
+        />
+
+    <item
+            android:id="@+id/menu_select_personal"
+            android:title="@string/select_personal"
+            android:checkable="true"
+            android:checked="true"
+            />
+    <item
+            android:id="@+id/menu_select_cop"
+            android:title="@string/select_cop"
+            android:checkable="true"
+            android:checked="true"
+            />
+	    
+    <item
+        android:id="@+id/menu_set_about"
+        android:title="@string/about"
+        />
+	
+      <item
+        android:id="@+id/menu_set_analytics"
+        android:title="@string/analytics"
+        android:checkable="true"
+	  android:visible="false"
+        />
+</menu>

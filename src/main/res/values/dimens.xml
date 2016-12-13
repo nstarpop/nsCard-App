@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="paddingDefault">12.0dip</dimen>
+    <dimen name="paddingLarge">14.0dip</dimen>
+    <dimen name="paddingMLarge">16.0dip</dimen>
+    <dimen name="paddingMedium">10.0dip</dimen>
+    <dimen name="paddingMenu">16.0dip</dimen>
+    <dimen name="paddingSmall">5.0dip</dimen>
+    <dimen name="paddingXLarge">18.0dip</dimen>
+    <dimen name="paddingXSmall">2.0dip</dimen>
+    <dimen name="paddingXXLarge">24.0dip</dimen>
+    <dimen name="paddingXXSmall">1.0dip</dimen>
+    <dimen name="paddingXXXLarge">26.0dip</dimen>
+    <dimen name="live_tv_detail_channel_size">15.5dip</dimen>
+    <dimen name="live_tv_detail_title_size">18.0dip</dimen>
+    <dimen name="popup_width">180.0dip</dimen>
+    <dimen name="paddingXXXXLarge">30.0dip</dimen>
+    <dimen name="vod_paddingDefault">5.0dip</dimen>
+    <dimen name="vod_paddingMLarge">16.0dip</dimen>
+    <dimen name="vod_paddingMedium">10.0dip</dimen>
+    <dimen name="vod_paddingMegaLarge">60.0dip</dimen>
+    <dimen name="vod_paddingXLarge">18.0dip</dimen>
+    <dimen name="vod_paddingXXXLarge">26.0dip</dimen>
+</resources>

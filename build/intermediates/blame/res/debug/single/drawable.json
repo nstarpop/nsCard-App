@@ -1,0 +1,306 @@
+[
+    {
+        "merged": "E:\\BusinessCardFinder_v7\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\BusinessCardFinder_v7\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\BusinessCardFinder_v7\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_states.xml",
+        "source": "E:\\BusinessCardFinder_v7\\src\\main\\res\\drawable\\selector_states.xml"
+    },
+    {
+        "merged": "E:\\BusinessCardFinder_v7\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\BusinessCardFinder_v7\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\BusinessCardFinder_v7\\build\\intermediates\\res\\merged\\debug\\drawable\\border.xml",
+        "source": "E:\\BusinessCardFinder_v7\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\res\\merged\\debug\\drawable\\action_bar_background.xml",
+        "source": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\src\\main\\res\\drawable\\action_bar_background.xml"
+    },
+    {
+        "merged": "E:\\BusinessCardFinder_v7\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\BusinessCardFinder_v7\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\BusinessCardFinder_v7\\build\\intermediates\\res\\merged\\debug\\drawable\\background_stripes_details.xml",
+        "source": "E:\\BusinessCardFinder_v7\\src\\main\\res\\drawable\\background_stripes_details.xml"
+    },
+    {
+        "merged": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\res\\merged\\debug\\drawable\\downbutton_corner.xml",
+        "source": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\src\\main\\res\\drawable\\downbutton_corner.xml"
+    },
+    {
+        "merged": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_states.xml",
+        "source": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\src\\main\\res\\drawable\\selector_states.xml"
+    },
+    {
+        "merged": "E:\\BusinessCardFinder_v7\\build\\intermediates\\res\\merged\\debug\\drawable\\action_bar_background.xml",
+        "source": "E:\\BusinessCardFinder_v7\\src\\main\\res\\drawable\\action_bar_background.xml"
+    },
+    {
+        "merged": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\res\\merged\\debug\\drawable\\addcard.png",
+        "source": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\src\\main\\res\\drawable\\addcard.png"
+    },
+    {
+        "merged": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\BusinessCardFinder_v7\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\BusinessCardFinder_v7\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\BusinessCardFinder_v7\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\BusinessCardFinder_v7\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\BusinessCardFinder_v7\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\BusinessCardFinder_v7\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\BusinessCardFinder_v7\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.jpg",
+        "source": "E:\\BusinessCardFinder_v7\\src\\main\\res\\drawable\\ic_launcher.jpg"
+    },
+    {
+        "merged": "E:\\BusinessCardFinder_v7\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\BusinessCardFinder_v7\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\BusinessCardFinder_v7\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "E:\\BusinessCardFinder_v7\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\BusinessCardFinder_v7\\build\\intermediates\\res\\merged\\debug\\drawable\\inputlayout.xml",
+        "source": "E:\\BusinessCardFinder_v7\\src\\main\\res\\drawable\\inputlayout.xml"
+    },
+    {
+        "merged": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\BusinessCardFinder_v7\\build\\intermediates\\res\\merged\\debug\\drawable\\selected.png",
+        "source": "E:\\BusinessCardFinder_v7\\src\\main\\res\\drawable\\selected.png"
+    },
+    {
+        "merged": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\BusinessCardFinder_v7\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\BusinessCardFinder_v7\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\BusinessCardFinder_v7\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "E:\\BusinessCardFinder_v7\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\BusinessCardFinder_v7\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\BusinessCardFinder_v7\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\BusinessCardFinder_v7\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\BusinessCardFinder_v7\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\BusinessCardFinder_v7\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\BusinessCardFinder_v7\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_large_holo.xml",
+        "source": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\src\\main\\res\\drawable\\progress_large_holo.xml"
+    },
+    {
+        "merged": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.jpg",
+        "source": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\src\\main\\res\\drawable\\ic_launcher.jpg"
+    },
+    {
+        "merged": "E:\\BusinessCardFinder_v7\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "E:\\BusinessCardFinder_v7\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "E:\\BusinessCardFinder_v7\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\BusinessCardFinder_v7\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\res\\merged\\debug\\drawable\\border.xml",
+        "source": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "E:\\BusinessCardFinder_v7\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\BusinessCardFinder_v7\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\BusinessCardFinder_v7\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\BusinessCardFinder_v7\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\BusinessCardFinder_v7\\build\\intermediates\\res\\merged\\debug\\drawable\\downbutton_corner.xml",
+        "source": "E:\\BusinessCardFinder_v7\\src\\main\\res\\drawable\\downbutton_corner.xml"
+    },
+    {
+        "merged": "E:\\BusinessCardFinder_v7\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\BusinessCardFinder_v7\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\BusinessCardFinder_v7\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "E:\\BusinessCardFinder_v7\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\BusinessCardFinder_v7\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "E:\\BusinessCardFinder_v7\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "E:\\BusinessCardFinder_v7\\build\\intermediates\\res\\merged\\debug\\drawable\\main_title_bg.xml",
+        "source": "E:\\BusinessCardFinder_v7\\src\\main\\res\\drawable\\main_title_bg.xml"
+    },
+    {
+        "merged": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\res\\merged\\debug\\drawable\\inputlayout.xml",
+        "source": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\src\\main\\res\\drawable\\inputlayout.xml"
+    },
+    {
+        "merged": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\BusinessCardFinder_v7\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\BusinessCardFinder_v7\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\BusinessCardFinder_v7\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_large_holo.xml",
+        "source": "E:\\BusinessCardFinder_v7\\src\\main\\res\\drawable\\progress_large_holo.xml"
+    },
+    {
+        "merged": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "E:\\BusinessCardFinder_v7\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\BusinessCardFinder_v7\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\res\\merged\\debug\\drawable\\main_title_bg.xml",
+        "source": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\src\\main\\res\\drawable\\main_title_bg.xml"
+    },
+    {
+        "merged": "E:\\BusinessCardFinder_v7\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\BusinessCardFinder_v7\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\BusinessCardFinder_v7\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\BusinessCardFinder_v7\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\BusinessCardFinder_v7\\build\\intermediates\\res\\merged\\debug\\drawable\\addcard.png",
+        "source": "E:\\BusinessCardFinder_v7\\src\\main\\res\\drawable\\addcard.png"
+    },
+    {
+        "merged": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\res\\merged\\debug\\drawable\\card_image.png",
+        "source": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\src\\main\\res\\drawable\\card_image.png"
+    },
+    {
+        "merged": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\res\\merged\\debug\\drawable\\selected.png",
+        "source": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\src\\main\\res\\drawable\\selected.png"
+    },
+    {
+        "merged": "E:\\BusinessCardFinder_v7\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\BusinessCardFinder_v7\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\BusinessCardFinder_v7\\build\\intermediates\\res\\merged\\debug\\drawable\\card_image.png",
+        "source": "E:\\BusinessCardFinder_v7\\src\\main\\res\\drawable\\card_image.png"
+    },
+    {
+        "merged": "E:\\BusinessCardFinder_v7\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\BusinessCardFinder_v7\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\res\\merged\\debug\\drawable\\background_stripes_details.xml",
+        "source": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\src\\main\\res\\drawable\\background_stripes_details.xml"
+    }
+]

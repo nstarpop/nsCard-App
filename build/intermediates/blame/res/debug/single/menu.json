@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\BusinessCardFinder_v7\\build\\intermediates\\res\\merged\\debug\\menu\\settings_menu.xml",
+        "source": "E:\\BusinessCardFinder_v7\\src\\main\\res\\menu\\settings_menu.xml"
+    },
+    {
+        "merged": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\res\\merged\\debug\\menu\\settings.xml",
+        "source": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\src\\main\\res\\menu\\settings.xml"
+    },
+    {
+        "merged": "E:\\BusinessCardFinder_v7\\build\\intermediates\\res\\merged\\debug\\menu\\settings.xml",
+        "source": "E:\\BusinessCardFinder_v7\\src\\main\\res\\menu\\settings.xml"
+    },
+    {
+        "merged": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\res\\merged\\debug\\menu\\settings_menu.xml",
+        "source": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\src\\main\\res\\menu\\settings_menu.xml"
+    }
+]

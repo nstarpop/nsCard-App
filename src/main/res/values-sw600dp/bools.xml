@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="canRotate">true</bool>
+    <bool name="collectionOneBigImage">true</bool>
+    <bool name="isPhablet">true</bool>
+    <bool name="isSmartphone">false</bool>
+    <bool name="isTablet">false</bool>
+    <bool name="live_tv_channelsLeftPaneVisible">true</bool>
+    <bool name="live_tv_isListVisible">false</bool>
+    <bool name="oneBigImage">false</bool>
+    <bool name="vitrine_collapsable">false</bool>
+</resources>

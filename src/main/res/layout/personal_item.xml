@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:background="@color/titleNormalBlueColor"
+    android:layout_width="fill_parent"
+    android:layout_height="100.0dip"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView android:textSize="10.0pt"
+               android:textStyle="bold"
+              android:textColor="@color/whiteColor"
+              android:id="@+id/itemTag"
+              android:layout_marginLeft="@dimen/vod_paddingDefault"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content"
+              android:text="@string/tv_tag"
+              android:layout_centerVertical="true" />
+
+    <View android:id="@+id/viewLine"
+          android:background="@color/brownColor"
+          android:layout_width="fill_parent"
+          android:layout_height="2.0dip"
+          android:layout_marginLeft="@dimen/vod_paddingDefault"
+          android:layout_marginRight="@dimen/vod_paddingDefault"
+          android:layout_below="@id/itemTag" />
+
+    <LinearLayout
+        android:id="@+id/briefLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp">
+
+        <TextView android:textSize="15.0pt"
+                  android:textStyle="bold"
+                  android:textColor="@color/whiteColor"
+                  android:id="@+id/itemName"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:text="@string/tv_full_name"
+                  android:layout_weight="1"
+                  android:layout_marginLeft="@dimen/vod_paddingDefault"
+                  android:layout_centerVertical="true" />
+
+        <TextView android:textSize="12.0pt"
+                  android:textStyle="bold"
+                  android:textColor="@color/whiteColor"
+                  android:id="@+id/itemComany"
+                  android:layout_weight="1"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:text="@string/tv_company"
+                  android:layout_marginLeft="@dimen/vod_paddingDefault"
+                  android:layout_centerVertical="true" />
+    </LinearLayout>
+</LinearLayout>

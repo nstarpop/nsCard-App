@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="canRotate">true</bool>
+    <bool name="collectionOneBigImage">false</bool>
+    <bool name="live_tv_channelsLeftPaneVisible">false</bool>
+    <bool name="live_tv_isListVisible">true</bool>
+    <bool name="vitrine_actionsHasHorizontalDivider">true</bool>
+    <bool name="vitrine_displayInDetailPage">false</bool>
+</resources>

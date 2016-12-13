@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <color name="nagra_background">#EBEAEB</color>
+  <color name="nagra_menu_text">#7D7E7C</color>
+  <color name="nagra_main_title_text">#7D7E7C</color>
+  <color name="nagra_header_background">#EBEAEB</color>
+  <color name="nagra_button_background">#294051</color>
+
+  <color name="DarkSlateGray">#2F4F4F</color>
+  <color name="background_dark_grey">#1A1A1A</color>
+  <color name="content_episode_overlay">#ffffffff</color>
+  <color name="vod_pressed">#CC33B5E5</color>
+  <color name="vod_mediaController_ads">#b2000000</color>
+  <color name="vod_mediaController_ads_pressed">#000000</color>
+  <color name="state_pressed">#D62362</color>
+  <color name="state_selected">#2f8ad1</color>
+  <color name="titleFocusedBlueColor">#003366</color>
+  <color name="titleNormalBlueColor">#52C7FE</color>
+  <color name="whiteColor">#FFFFFF</color>
+  <color name="blackColor">#000000</color>
+  <color name="redColor">#FF0033</color>
+  <color name="blueColor">#0000FF</color>
+  <color name="greenColor">#00FF00</color>
+  <color name="redblueColor">#FF00FF</color>
+  <color name="brownColor">#F4A460</color>
+  <color name="goldColor">#FFD700</color>
+
+  <!-- media controller colors -->
+  <color name="popup_ads">#DCDCDC</color>
+  <color name="popup_ads_pressed">#000000</color>
+  <color name="popup_title">#A9A9A9</color>
+  <color name="popup_title_separator">#3ac2ea</color>
+  <color name="popup_item_separator">#3d3d3b</color>
+</resources>

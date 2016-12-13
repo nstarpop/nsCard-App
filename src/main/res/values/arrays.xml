@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cc_608_channel">
+        <item>Close</item>
+        <item>Channel-1</item>
+        <item>Channel-2</item>
+        <item>Channel-3</item>
+        <item>Channel-4</item>
+    </string-array>
+    <string-array name="cc_708_service">
+        <item>Close</item>
+        <item>Service-1</item>
+        <item>Service-2</item>
+        <item>Service-3</item>
+        <item>Service-4</item>
+        <item>Service-5</item>
+        <item>Service-6</item>
+    </string-array>
+    <string-array name="cc_color">
+        <item>Default</item>
+        <item>White</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Cyan</item>
+        <item>Red</item>
+        <item>Yellow</item>
+        <item>magenta</item>
+        <item>Black</item>
+    </string-array>
+    <string-array name="cc_opacity">
+        <item>Default</item>
+        <item>Solid</item>
+        <item>Translucent_25</item>
+        <item>Translucent_75</item>
+        <item>Translucent</item>
+    </string-array> 
+    <string-array name="cc_edge">
+        <item>Default</item>
+        <item>None</item>
+        <item>Raised</item>
+        <item>Depressed</item>
+        <item>Uniform</item>
+        <item>Drop_shadowed</item>
+    </string-array>
+    <string-array name="cc_font_size">
+        <item>100%</item>
+        <item>50%</item>
+        <item>150%</item>
+        <item>200%</item>
+    </string-array>
+     <string-array name="cc_font">
+        <item>DEFAULT</item>
+        <item>DEFAULT_BOLD</item>
+        <item>SANS_SERIF</item>
+        <item>SERIF</item>
+        <item>MONOSPACE</item>
+    </string-array>         
+</resources>    

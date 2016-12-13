@@ -1,0 +1,59 @@
+apply plugin: 'com.android.application'
+
+buildscript {
+    repositories {
+        jcenter()
+        maven {
+            url "https://plugins.gradle.org/m2/"
+        }
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.1.0'
+    }
+}
+
+repositories {
+    jcenter()
+    mavenCentral()
+}
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.1"
+
+    defaultConfig {
+        applicationId "com.nagrastar.businesscardfinder"
+        minSdkVersion 14
+        targetSdkVersion 23
+    }
+    lintOptions {
+        abortOnError false
+    }
+
+    sourceSets {
+      main {
+        jniLibs.srcDirs = ['libs']
+      }
+    }
+
+    signingConfigs {
+
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            signingConfig signingConfigs.release
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'cz.msebera.android:httpclient:4.4.1.1'
+    compile 'com.loopj.android:android-async-http:1.4.9'
+
+    compile 'com.android.support:support-v13:23.1.1'
+    compile 'com.android.support:appcompat-v7:23.1.1'
+    compile 'com.android.support:design:23.0.0'
+}

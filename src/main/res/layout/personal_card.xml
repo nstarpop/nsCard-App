@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/nagra_background" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:ads="http://schemas.android.com/apk/res-auto">
+
+    <ScrollView android:paddingTop="4.0dip" android:paddingBottom="4.0dip" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_margin="3.0dip" android:layout_weight="1.0">
+        <LinearLayout android:orientation="vertical" android:id="@+id/linearLayout2" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="vertical" android:id="@+id/layoutName" android:background="@drawable/inputlayout" android:padding="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:textColor="@color/DarkSlateGray" android:id="@+id/textName" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="3.0dip" android:text="@string/tv_full_name" />
+                <EditText android:textColor="@color/background_dark_grey" android:id="@+id/editName" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="3.0dip" android:inputType="textNoSuggestions" />
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:id="@+id/layoutJobTitle" android:background="@drawable/inputlayout" android:padding="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="3.0dip">
+                <TextView android:textColor="@color/DarkSlateGray" android:id="@+id/textJobTitle" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="3.0dip" android:text="@string/tv_job_title" />
+                <EditText android:textColor="@color/background_dark_grey" android:id="@+id/editJobTitle" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="3.0dip" android:inputType="textNoSuggestions" />
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:id="@+id/layoutPhone" android:background="@drawable/inputlayout" android:padding="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="3.0dip">
+                <TextView android:textColor="@color/DarkSlateGray" android:id="@+id/textPhone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="3.0dip" android:text="@string/tv_phone" />
+                <EditText android:textColor="@color/background_dark_grey" android:id="@+id/editPhone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="3.0dip" android:inputType="number" />
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:id="@+id/layoutEmail" android:background="@drawable/inputlayout" android:padding="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="3.0dip">
+                <TextView android:textColor="@color/DarkSlateGray" android:id="@+id/textEmail" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="3.0dip" android:text="@string/tv_email" />
+                <EditText android:textColor="@color/background_dark_grey" android:id="@+id/editEmail" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="3.0dip" android:inputType="textEmailAddress" />
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:id="@+id/layoutAddress" android:background="@drawable/inputlayout" android:padding="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="3.0dip">
+                <TextView android:textColor="@color/DarkSlateGray" android:id="@+id/textAddress" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="3.0dip" android:text="@string/tv_address" />
+                <EditText android:textColor="@color/background_dark_grey" android:id="@+id/editAddress" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="3.0dip" android:inputType="textMultiLine|textNoSuggestions" />
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:id="@+id/layoutCompany" android:background="@drawable/inputlayout" android:padding="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="3.0dip">
+                <TextView android:textColor="@color/DarkSlateGray" android:id="@+id/textCompany" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="3.0dip" android:text="@string/tv_company" />
+                <EditText android:textColor="@color/background_dark_grey" android:id="@+id/editCompany" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="3.0dip" android:inputType="textNoSuggestions" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

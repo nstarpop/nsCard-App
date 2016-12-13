@@ -1,0 +1,84 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    <LinearLayout
+        android:id="@+id/main_LinearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:baselineAligned="false"
+        android:orientation="horizontal" >
+
+        <RelativeLayout
+            android:id="@+id/main_RelativeLayout1"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/main_title_bg"
+            android:paddingTop="5dp" >
+
+            <TextView
+                android:id="@+id/main_download_textview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:contentDescription="@null"
+                android:text="@string/streams_title"
+                android:textColor="@color/whiteColor"
+                android:textSize="22sp"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:id="@+id/main_textView_streams"
+                android:layout_width="match_parent"
+                android:layout_height="5dp"
+                android:layout_below="@id/main_download_textview"
+                android:layout_marginTop="5dp"
+                android:background="@color/state_selected" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/main_RelativeLayout2"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/main_title_bg"
+            android:paddingTop="5dp" >
+
+            <TextView
+                android:layout_width="0.5dip"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@+id/main_download_textview"
+                android:layout_alignParentLeft="true"
+                android:layout_alignTop="@+id/main_download_textview"
+                android:background="@color/whiteColor" />
+
+            <TextView
+                android:id="@id/main_download_textview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:contentDescription="@null"
+                android:text="@string/download_title"
+                android:textColor="@color/whiteColor"
+                android:textSize="22sp"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:id="@+id/main_textView_download"
+                android:layout_width="match_parent"
+                android:layout_height="5dp"
+                android:layout_below="@+id/main_download_textview"
+                android:layout_marginTop="5dp"
+                android:background="@color/state_selected"
+                android:visibility="invisible" />
+        </RelativeLayout>
+    </LinearLayout>
+    <android.support.v4.view.ViewPager
+        android:id="@+id/main_viewPager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/main_LinearLayout"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true" >
+    </android.support.v4.view.ViewPager>
+</RelativeLayout>

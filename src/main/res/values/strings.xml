@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">neCard</string>
+    <string name="purchase">Purchase</string>
+    <string name="detail_more">Plus&#xA0;</string>
+    <string name="loading">Loading&#xA0;</string>
+    <string name="selectServer">Select Server</string> 
+    <string name="description">Server Description</string>
+    <string name="next">Next</string>
+    <string name="signon_failed">Signon Failed</string>
+    <string name="initialize_failed">Initialize Failed</string>
+    <string name="streams_title">Personal</string>
+    <string name="download_title">CardBox</string>
+    <string name="personal_added">personal added</string>
+    <string name="personal_updated">personal updated</string>
+    <string name="download_added">businessCard added</string>
+    <string name="download_removed">businessCard removed</string>
+    <string name="download_prepared">businessCard prepared</string>
+    <string name="download_successful">businessCard successful</string>
+    <string name="download_failed">businessCard failed</string>
+    <string name="stream_fragment">stream fragment</string>
+    <string name="player_live">LIVE</string>
+    <string name="create_card"> - Create Business Card - </string>
+    <string name="update_card">Edit</string>
+    <string name="stream_fragment_download">Download</string>
+    <string name="stream_filter_title">Streams filter</string>
+    <string name="stream_filter_sure">OK</string>
+    <string name="start">Start</string>
+    <string name="detail">Detail</string>
+    <string name="resume">Resume</string>
+    <string name="play">Done</string>
+    <string name="remove">Delete</string>
+    <string name="select_bitrate">Select Bitrate</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="go_to_url_title">Open new URL</string>
+    <string name="select_audio_title">Select audio track</string>
+    <string name="select_text_title">Select text track</string>
+    <string name="select_audio_language">audio</string>
+    <string name="select_subtitle_language">subtitle</string>
+    <string name="set_text_style">Set text style</string>
+    <string name="disable_subtitle">Disable</string>
+    <string name="select_close_caption">Select Close Caption</string>
+    <string name="set_player_statistics">Set Player Statistics</string>
+
+    <string name="no_audio_track_info">No audio track can be selected</string>
+    <string name="no_text_track_info">No text track can be selected</string>
+    <string name="stream_detail_title">Stream Title : </string>
+    <string name="stream_detail_url">Stream URL : </string>
+    <string name="stream_detail_live">Live : </string>
+    <string name="stream_detail_encrypted">Encrypted or Clear : </string>
+    <string name="stream_detail_feature">Stream feature : </string>
+    <string name="encrypted">Encrypted </string>
+    <string name="clear">Clear </string>
+
+    <string name="tv_tag">Tag</string>
+    <string name="tv_full_name">Full Name</string>
+    <string name="tv_job_title">Job Title</string>
+    <string name="tv_phone">Phone</string>
+    <string name="tv_email">Email</string>
+    <string name="tv_address">Address</string>
+    <string name="b_add_card">Add Card</string>
+    <string name="tv_company">Company</string>
+
+    <string name="multi_track_text">Text</string>
+    <string name="set_band_width">Set Band Width</string>
+    
+    <!-- caption info -->
+    <string name="caption_style">Caption Style</string>
+    <string name="caption_title_font">Font</string>
+    <string name="caption_title_size">Size</string>
+    <string name="caption_title_color">Color</string>
+    <string name="caption_title_background">Background</string>
+    <string name="caption_title_window">Window</string>
+    <string name="caption_title_igfnore">Ignore TextMode</string>
+    <string name="caption_title_shadow">Shadow Styles</string>
+  
+    <string name="caption_title_opacity">Opacity</string>
+    <string name="caption_title_edge">Edge Attributes</string>
+    <string name="caption_title_shadow_color">Shadow Color</string>
+    <string name="caption_title_shadow_opacity">Shadow Opacity</string>
+  
+    <string name="reset">Reset</string>
+    <string name="save">Save</string>
+    
+    <string name="default_dl_mode">using default businessCard mode</string>
+    <string name="service_dl_mode">using service businessCard mode</string>
+    <string name="shared_preferences">sys_configue</string>
+    <string name="dl_mode_key">DL_MODE</string>
+    <string name="dl_mode_value_default">default</string>
+    <string name="dl_mode_value_service">service</string>
+    <string name="dl_mode_description">- Download Mode : </string>
+
+    <string name="permission_dl_extStroage">External Storage Permission Is Required for Download-To-Go</string>
+    <string name="permission_stroage_granted">Storage permission has been granted</string>
+    <string name="permission_stroage_denied">Storage permission has NOT been granted</string>
+
+    <string-array name="statistics_array">
+      <item>disable statistics</item>
+      <item>enable statistics</item>
+    </string-array>
+    
+    <string name="warning">Warning</string>
+    <string name="netUnconnectedTxt">The network is unconnected and all downloading tasks will be paused. Please check yur network.</string>
+    <string name="networkRecoverTxt">The network now is connected, please resume the downloading tasks.</string>
+    <string name="remove_pak_db">Remove Personalization</string>
+    <string name="about">About</string>
+    <string name="welcome">Welcome</string>
+    <string name="analytics">Analytics</string>
+
+    <!-- Shown on transport control of lockscreen. Pressing button goes to previous track. -->
+    <string name="lockscreen_transport_prev_description">Previous track</string>
+    <!-- Shown on transport control of lockscreen. Pressing button goes to next track. -->
+    <string name="lockscreen_transport_next_description">Next track</string>
+    <!-- Shown on transport control of lockscreen. Pressing button pauses playback -->
+    <string name="lockscreen_transport_pause_description">Pause</string>
+    <!-- Shown on transport control of lockscreen. Pressing button pauses playback -->
+    <string name="lockscreen_transport_play_description">Play</string>
+    <!-- Shown on transport control of lockscreen. Pressing button pauses playback -->
+    <string name="lockscreen_transport_stop_description">Stop</string>
+    <!-- Shown on transport control screens. Pressing button rewinds playback [CHAR LIMIT=NONE]-->
+    <string name="lockscreen_transport_rew_description">Rewind</string>
+    <!-- Shown on transport control screens. Pressing button fast forwards playback [CHAR LIMIT=NONE]-->
+    <string name="lockscreen_transport_ffw_description">Fast forward</string>
+
+    <!--  media controller titles -->
+    <string name="audio">AUDIO TRACKS</string>
+    <string name="subtitle">SUBTITLES</string>
+    <string name="set_active">Active</string>
+    <string name="select_personal">Tag: Personal</string>
+    <string name="select_cop">Tag: Corporation</string>
+
+    set_active
+    
+</resources>

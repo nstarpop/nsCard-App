@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background = "@color/nagra_background">
+    <LinearLayout
+        android:orientation="vertical" 
+        android:id="@+id/content_detail"
+        android:layout_width="fill_parent" 
+        android:layout_height="wrap_content"
+        android:background="@color/nagra_background">
+    
+        <TextView 
+            android:textSize="@dimen/live_tv_detail_title_size" 
+            android:textStyle="bold" 
+            android:textColor="@color/nagra_main_title_text" 
+            android:id="@+id/content_detail_title" 
+            android:layout_width="wrap_content" 
+            android:layout_height="wrap_content"
+            android:lines="2" 
+            android:layout_marginTop="@dimen/paddingDefault"  
+            android:layout_marginLeft="@dimen/paddingDefault"/>
+
+        <TextView 
+            android:textSize="@dimen/live_tv_detail_channel_size" 
+            android:textColor="@color/nagra_menu_text" 
+            android:id="@+id/content_detail_url" 
+            android:layout_width="fill_parent" 
+            android:layout_height="wrap_content" 
+            android:lines="2" 
+            android:layout_marginTop="@dimen/paddingDefault"
+            android:layout_marginLeft="@dimen/paddingDefault"/>
+    
+        <include layout="@layout/loading"/>
+        <TextView 
+            android:textSize="@dimen/live_tv_detail_channel_size" 
+            android:textColor="@color/nagra_menu_text" 
+            android:id="@+id/content_detail_channel" 
+            android:layout_width="wrap_content" 
+            android:layout_height="wrap_content" 
+            android:lines="2" 
+            android:layout_marginTop="@dimen/paddingDefault"
+            android:layout_marginLeft="@dimen/paddingDefault"/>
+    
+        <TextView 
+            android:textSize="@dimen/live_tv_detail_channel_size" 
+            android:textColor="@color/nagra_menu_text" 
+            android:id="@+id/content_detail_encrypt" 
+            android:layout_width="fill_parent" 
+            android:layout_height="wrap_content" 
+            android:lines="2" 
+            android:layout_marginTop="@dimen/paddingDefault"
+            android:layout_marginLeft="@dimen/paddingDefault"/>
+
+        <TextView 
+            android:textSize="@dimen/live_tv_detail_channel_size" 
+            android:textColor="@color/nagra_menu_text"
+            android:ellipsize="end" 
+            android:id="@+id/content_detail_feature" 
+            android:layout_width="wrap_content" 
+            android:layout_height="wrap_content" 
+            android:lines="2" 
+            android:layout_marginTop="@dimen/paddingDefault"
+            android:layout_marginLeft="@dimen/paddingDefault"/>
+
+    </LinearLayout>
+</ScrollView>

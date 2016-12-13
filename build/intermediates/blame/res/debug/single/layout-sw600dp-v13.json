@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\stream_fragment_layout.xml",
+        "source": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\src\\main\\res\\layout-sw600dp\\stream_fragment_layout.xml"
+    },
+    {
+        "merged": "E:\\BusinessCardFinder_v7\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\main.xml",
+        "source": "E:\\BusinessCardFinder_v7\\src\\main\\res\\layout-sw600dp\\main.xml"
+    },
+    {
+        "merged": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\main.xml",
+        "source": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\src\\main\\res\\layout-sw600dp\\main.xml"
+    },
+    {
+        "merged": "E:\\BusinessCardFinder_v7\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\download_item.xml",
+        "source": "E:\\BusinessCardFinder_v7\\src\\main\\res\\layout-sw600dp\\download_item.xml"
+    },
+    {
+        "merged": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.0\\res\\layout-sw600dp\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\download_item.xml",
+        "source": "D:\\BusinessCardFinder_v4\\BusinessCardFinder\\src\\main\\res\\layout-sw600dp\\download_item.xml"
+    },
+    {
+        "merged": "E:\\BusinessCardFinder_v7\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\stream_fragment_layout.xml",
+        "source": "E:\\BusinessCardFinder_v7\\src\\main\\res\\layout-sw600dp\\stream_fragment_layout.xml"
+    },
+    {
+        "merged": "E:\\BusinessCardFinder_v7\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "E:\\BusinessCardFinder_v7\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.0\\res\\layout-sw600dp\\design_layout_snackbar.xml"
+    }
+]
